@@ -122,7 +122,7 @@ function formatPrice(price: number): string {
               />
 
               <p class="cart-summary-note">
-                🔒 Secure checkout &nbsp;·&nbsp; Free returns on all orders
+                🔒 Secure checkout
               </p>
             </div>
           </div>
